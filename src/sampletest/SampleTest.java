@@ -6,6 +6,8 @@ public class SampleTest {
 		String str = "karan";
 		int c =10;
 		System.out.println(str);
+
+		Map<String,Integer> h = new HashMap<>();
 		}
 
 }
